@@ -71,15 +71,23 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "PySpark",
-      fontAwesomeClassname: "fab fa-cloud"
+      fontAwesomeClassname: "fab fa-python"
     },
     {
-      skillName: "sql-database",
+      skillName: "SQL",
       fontAwesomeClassname: "fas fa-database"
     },
     {
       skillName: "Azure",
       fontAwesomeClassname: "fab fa-microsoft"
+    },
+    {
+      skillName: "Cosmos DB",
+      fontAwesomeClassname: "fab fa-database"
+    },
+    {
+      skillName: "PL/SQL",
+      fontAwesomeClassname: "fab fa-database-alt"
     },
     {
       skillName: "docker",
