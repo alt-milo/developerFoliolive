@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ecfee7ee748099143a92a6379df0e131",
+    "revision": "fd67e36cde5b39b2e570c084a51c1f34",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.d7ceb645.chunk.css"
   },
   {
-    "revision": "ee9b9d9c60065a90ae9d",
+    "revision": "321ff3ada47b2b8886e4",
     "url": "/static/css/main.a2be55d7.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.e69451a6.chunk.js"
   },
   {
-    "revision": "ee9b9d9c60065a90ae9d",
-    "url": "/static/js/main.f0de6442.chunk.js"
+    "revision": "321ff3ada47b2b8886e4",
+    "url": "/static/js/main.a70f4d4e.chunk.js"
   },
   {
     "revision": "341f0f393b5ab60a9279",
@@ -50,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c59720d63dc3595a12e1c7e641a1bfa5",
     "url": "/static/media/airbnbLogo.c59720d6.png"
+  },
+  {
+    "revision": "d5d7244309ede162226658e71168ac2c",
+    "url": "/static/media/capgemini.d5d72443.png"
   },
   {
     "revision": "47a7a717679b640ceb1b05d38c480a61",
