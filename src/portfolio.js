@@ -87,7 +87,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "PL/SQL",
-      fontAwesomeClassname: "fas fa-database-alt"
+      fontAwesomeClassname: "fa-regular fa-database"
     },
     {
       skillName: "docker",
