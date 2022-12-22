@@ -36,7 +36,7 @@ const socialMediaLinks = {
   github: "https://github.com/nirmalya-mukherjee",
   linkedin: "https://www.linkedin.com/in/nirmalya-mukherjee/",
   gmail: "nirmalya0101@gmail.com",
-  instagram: 'https://instagram.com/nirmalya_art'
+  instagram: 'https://instagram.com/nirmalya_art',
   //gitlab: "https://gitlab.com/saadpasta",
   //facebook: "https://www.facebook.com/saad.pasta7",
   //medium: "https://medium.com/@saadpasta",
