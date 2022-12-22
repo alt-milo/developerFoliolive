@@ -70,16 +70,20 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-python"
     },
     {
-      skillName: "PySpark",
-      fontAwesomeClassname: "fab fa-python"
-    },
-    {
       skillName: "SQL",
       fontAwesomeClassname: "fas fa-database"
     },
     {
+      skillName: "PySpark",
+      fontAwesomeClassname: "fab fa-python"
+    },
+    {
       skillName: "Azure",
       fontAwesomeClassname: "fab fa-microsoft"
+    },
+    {
+      skillName: "aws",
+      fontAwesomeClassname: "fab fa-aws"
     },
     {
       skillName: "Cosmos DB",
@@ -87,20 +91,16 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "PL/SQL",
-      fontAwesomeClassname: "fa-regular fa-database"
-    },
-    {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
+      fontAwesomeClassname: "fas fa-database"
     },
     {
       skillName: "git",
       fontAwesomeClassname: "fab fa-git-alt"
     },
     {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
-    }
+      skillName: "docker",
+      fontAwesomeClassname: "fab fa-docker"
+    },
 //    {
 //      skillName: "JavaScript",
 //      fontAwesomeClassname: "fab fa-js"
