@@ -139,10 +139,10 @@ const educationInfo = {
       schoolName: "National Institute of Technology Agartala",
       logo: require("./assets/images/nita.png"),
       subHeader: "Bachelor of Technology in Computer Science and Engineering",
-      duration: "September 2016 - April 2020",
-      desc: "Participated in the research of predicting students’ performance; and published 1 paper.",
+      duration: "2016 - 2020",
+      desc: "Participated in the research of predicting students’ performance and published 1 paper.",
       descBullets: [
-        "cgpa: 8.04",
+        "CGPA: 8.04",
         "President of Fine Arts Club, NIT Agartala, 2019 - 2020"
       ]
     }
@@ -176,14 +176,14 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      role: "Associate Consultant",
+      company: "Capgemini",
+      companylogo: require("./assets/images/capgemini.png"),
+      date: "October 2020 – March 2022",
+      desc: "Python/PySpark developer, worked with top accounts to design and create powerful data pipelines",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "----------------------------------",
+        "----------------------------------"
       ]
     },
     {
