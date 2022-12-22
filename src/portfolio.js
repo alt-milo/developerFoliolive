@@ -83,11 +83,11 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Cosmos DB",
-      fontAwesomeClassname: "fab fa-database"
+      fontAwesomeClassname: "fas fa-database"
     },
     {
       skillName: "PL/SQL",
-      fontAwesomeClassname: "fab fa-database-alt"
+      fontAwesomeClassname: "fas fa-database-alt"
     },
     {
       skillName: "docker",
@@ -96,6 +96,10 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "git",
       fontAwesomeClassname: "fab fa-git-alt"
+    },
+    {
+      skillName: "aws",
+      fontAwesomeClassname: "fab fa-aws"
     }
 //    {
 //      skillName: "JavaScript",
@@ -116,10 +120,6 @@ https://fontawesome.com/icons?d=gallery */
 //    {
 //      skillName: "npm",
 //      fontAwesomeClassname: "fab fa-npm"
-//    },
-//    {
-//      skillName: "aws",
-//      fontAwesomeClassname: "fab fa-aws"
 //    },
 //    {
 //      skillName: "firebase",
