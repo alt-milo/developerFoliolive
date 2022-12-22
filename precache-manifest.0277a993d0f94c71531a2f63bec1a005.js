@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c581cd14146fb5f74c4c82cf34f0bd97",
+    "revision": "83dc0a5ba071d2c8c01471efc8d97307",
     "url": "/index.html"
   },
   {
-    "revision": "779b68c80f0752318550",
+    "revision": "ca264af197abc51e209d",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "ccf6c859f5bf48a1c10e",
+    "revision": "47e19bfaad882369ffd0",
     "url": "/static/css/4.d7ceb645.chunk.css"
   },
   {
-    "revision": "eb4e7ae4eefba2fca83b",
+    "revision": "92f01b2dff4603286b84",
     "url": "/static/css/main.a2be55d7.chunk.css"
   },
   {
-    "revision": "37c505ca81ca0fa9f43e",
-    "url": "/static/js/2.a15f71a2.chunk.js"
+    "revision": "3ff728bf56e28f1ad9ef",
+    "url": "/static/js/2.7813cd77.chunk.js"
   },
   {
     "revision": "bc236b351092d334844238e6858d7051",
-    "url": "/static/js/2.a15f71a2.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.7813cd77.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "779b68c80f0752318550",
-    "url": "/static/js/3.8ad2b083.chunk.js"
+    "revision": "ca264af197abc51e209d",
+    "url": "/static/js/3.a5c80a04.chunk.js"
   },
   {
-    "revision": "ccf6c859f5bf48a1c10e",
-    "url": "/static/js/4.726d68c7.chunk.js"
+    "revision": "47e19bfaad882369ffd0",
+    "url": "/static/js/4.e69451a6.chunk.js"
   },
   {
-    "revision": "eb4e7ae4eefba2fca83b",
-    "url": "/static/js/main.b8afae09.chunk.js"
+    "revision": "92f01b2dff4603286b84",
+    "url": "/static/js/main.91b7eac2.chunk.js"
   },
   {
-    "revision": "bc8c452b12f9ccb5d8c9",
-    "url": "/static/js/runtime-main.800bfd55.js"
+    "revision": "341f0f393b5ab60a9279",
+    "url": "/static/js/runtime-main.1a30cc7d.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -72,24 +72,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/googleAssistantLogo.e79c6392.webp"
   },
   {
-    "revision": "35ef5e915631be2c31ccdff55b53db29",
-    "url": "/static/media/harvardLogo.35ef5e91.png"
-  },
-  {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/static/media/manOnTable.52be3144.svg"
   },
   {
-    "revision": "829ad0a1deef4d7295adfecdf12df2be",
-    "url": "/static/media/nextuLogo.829ad0a1.webp"
-  },
-  {
-    "revision": "ee62cb58630f29a6e6201b49d4c03728",
-    "url": "/static/media/pwaLogo.ee62cb58.webp"
-  },
-  {
-    "revision": "4b2938b9f5ea2f1ddbd45dccaff628bc",
-    "url": "/static/media/quoraLogo.4b2938b9.png"
+    "revision": "bdc9536aa587ac34c3cd50983e875c30",
+    "url": "/static/media/nita.bdc9536a.png"
   },
   {
     "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
