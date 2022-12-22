@@ -66,57 +66,58 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "python",
+      skillName: "Python",
       fontAwesomeClassname: "fab fa-python"
     },
     {
-      skillName: "css3",
-      fontAwesomeClassname: "fab fa-css3-alt"
-    },
-    {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
-    },
-    {
-      skillName: "JavaScript",
-      fontAwesomeClassname: "fab fa-js"
-    },
-    {
-      skillName: "reactjs",
-      fontAwesomeClassname: "fab fa-react"
-    },
-    {
-      skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node"
-    },
-    {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
-    },
-    {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
+      skillName: "PySpark",
+      fontAwesomeClassname: "fab fa-cloud"
     },
     {
       skillName: "sql-database",
       fontAwesomeClassname: "fas fa-database"
     },
     {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
-    },
-    {
-      skillName: "firebase",
-      fontAwesomeClassname: "fas fa-fire"
-    },
-    {
-      skillName: "python",
-      fontAwesomeClassname: "fab fa-python"
+      skillName: "Azure",
+      fontAwesomeClassname: "fab fa-microsoft"
     },
     {
       skillName: "docker",
       fontAwesomeClassname: "fab fa-docker"
+    },
+    {
+      skillName: "git",
+      fontAwesomeClassname: "fab fa-git-alt"
     }
+//    {
+//      skillName: "JavaScript",
+//      fontAwesomeClassname: "fab fa-js"
+//    },
+//    {
+//      skillName: "reactjs",
+//      fontAwesomeClassname: "fab fa-react"
+//    },
+//    {
+//      skillName: "nodejs",
+//      fontAwesomeClassname: "fab fa-node"
+//    },
+//    {
+//      skillName: "swift",
+//      fontAwesomeClassname: "fab fa-swift"
+//    },
+//    {
+//      skillName: "npm",
+//      fontAwesomeClassname: "fab fa-npm"
+//    },
+//    {
+//      skillName: "aws",
+//      fontAwesomeClassname: "fab fa-aws"
+//    },
+//    {
+//      skillName: "firebase",
+//      fontAwesomeClassname: "fas fa-fire"
+//    },
+
   ],
   display: true // Set false to hide this section, defaults to true
 };
