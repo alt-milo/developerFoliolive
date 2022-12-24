@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "baebe8688dd0644749f7977c58fe1517",
+    "revision": "7eefaa9f74634360b5b4a9f9bba4ecb7",
     "url": "/index.html"
   },
   {
-    "revision": "3d9c1ceb67af751efc2d",
+    "revision": "2bcb65bc308a2a5c7861",
     "url": "/static/css/3.1413c441.chunk.css"
   },
   {
-    "revision": "28706eca7272cfba1eda",
+    "revision": "8ea640ca6fc7cce91547",
     "url": "/static/css/4.8e5184d9.chunk.css"
   },
   {
-    "revision": "60bb446bf6547c3f782a",
+    "revision": "95d114937ca223fa4e03",
     "url": "/static/css/main.c99b9262.chunk.css"
   },
   {
-    "revision": "3ff728bf56e28f1ad9ef",
-    "url": "/static/js/2.7813cd77.chunk.js"
+    "revision": "36d9a96cfdaef41f7a80",
+    "url": "/static/js/2.2289ef11.chunk.js"
   },
   {
     "revision": "bc236b351092d334844238e6858d7051",
-    "url": "/static/js/2.7813cd77.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.2289ef11.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3d9c1ceb67af751efc2d",
-    "url": "/static/js/3.a5c80a04.chunk.js"
+    "revision": "2bcb65bc308a2a5c7861",
+    "url": "/static/js/3.9af59e32.chunk.js"
   },
   {
-    "revision": "28706eca7272cfba1eda",
-    "url": "/static/js/4.e69451a6.chunk.js"
+    "revision": "8ea640ca6fc7cce91547",
+    "url": "/static/js/4.a4460bac.chunk.js"
   },
   {
-    "revision": "60bb446bf6547c3f782a",
-    "url": "/static/js/main.e8262ffa.chunk.js"
+    "revision": "95d114937ca223fa4e03",
+    "url": "/static/js/main.f830a373.chunk.js"
   },
   {
-    "revision": "4edc2514eb32690d4bef",
-    "url": "/static/js/runtime-main.ab5cbc0a.js"
+    "revision": "697e918aa4f93a935850",
+    "url": "/static/js/runtime-main.f0807630.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -52,20 +52,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/capgemini.557b623b.png"
   },
   {
-    "revision": "47a7a717679b640ceb1b05d38c480a61",
-    "url": "/static/media/codeInLogo.47a7a717.webp"
-  },
-  {
     "revision": "51cf7192327488da3d2a171280680c16",
     "url": "/static/media/contactMailDark.51cf7192.svg"
   },
   {
-    "revision": "59389695208d7454c6607bed51ed4316",
-    "url": "/static/media/developerActivity.59389695.svg"
+    "revision": "4097403dfe16e20e364763cf1132620d",
+    "url": "/static/media/coursera.4097403d.jpg"
   },
   {
-    "revision": "e79c639294c805688be731921368c8f8",
-    "url": "/static/media/googleAssistantLogo.e79c6392.webp"
+    "revision": "59389695208d7454c6607bed51ed4316",
+    "url": "/static/media/developerActivity.59389695.svg"
   },
   {
     "revision": "3cc0e715c299334697a7b2e2c7f25934",
