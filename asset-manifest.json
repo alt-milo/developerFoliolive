@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.c99b9262.chunk.css",
-    "main.js": "/static/js/main.f830a373.chunk.js",
-    "main.js.map": "/static/js/main.f830a373.chunk.js.map",
+    "main.js": "/static/js/main.97d261c2.chunk.js",
+    "main.js.map": "/static/js/main.97d261c2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f0807630.js",
     "runtime-main.js.map": "/static/js/runtime-main.f0807630.js.map",
-    "static/js/2.2289ef11.chunk.js": "/static/js/2.2289ef11.chunk.js",
-    "static/js/2.2289ef11.chunk.js.map": "/static/js/2.2289ef11.chunk.js.map",
+    "static/js/2.d6fd27c3.chunk.js": "/static/js/2.d6fd27c3.chunk.js",
+    "static/js/2.d6fd27c3.chunk.js.map": "/static/js/2.d6fd27c3.chunk.js.map",
     "static/css/3.1413c441.chunk.css": "/static/css/3.1413c441.chunk.css",
     "static/js/3.9af59e32.chunk.js": "/static/js/3.9af59e32.chunk.js",
     "static/js/3.9af59e32.chunk.js.map": "/static/js/3.9af59e32.chunk.js.map",
@@ -14,12 +14,12 @@
     "static/js/4.a4460bac.chunk.js": "/static/js/4.a4460bac.chunk.js",
     "static/js/4.a4460bac.chunk.js.map": "/static/js/4.a4460bac.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c4b0de9f1ec637a24b4f2540bdb5d8a2.js": "/precache-manifest.c4b0de9f1ec637a24b4f2540bdb5d8a2.js",
+    "precache-manifest.94ec627fa4031e111014607950ad39e6.js": "/precache-manifest.94ec627fa4031e111014607950ad39e6.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.1413c441.chunk.css.map": "/static/css/3.1413c441.chunk.css.map",
     "static/css/4.8e5184d9.chunk.css.map": "/static/css/4.8e5184d9.chunk.css.map",
     "static/css/main.c99b9262.chunk.css.map": "/static/css/main.c99b9262.chunk.css.map",
-    "static/js/2.2289ef11.chunk.js.LICENSE.txt": "/static/js/2.2289ef11.chunk.js.LICENSE.txt",
+    "static/js/2.d6fd27c3.chunk.js.LICENSE.txt": "/static/js/2.d6fd27c3.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/capgemini.png": "/static/media/capgemini.557b623b.png",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
@@ -33,8 +33,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f0807630.js",
-    "static/js/2.2289ef11.chunk.js",
+    "static/js/2.d6fd27c3.chunk.js",
     "static/css/main.c99b9262.chunk.css",
-    "static/js/main.f830a373.chunk.js"
+    "static/js/main.97d261c2.chunk.js"
   ]
 }
