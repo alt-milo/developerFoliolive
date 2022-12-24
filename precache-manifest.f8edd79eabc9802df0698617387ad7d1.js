@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b6a93e263ab722a4d8cb4d93f96eacca",
+    "revision": "baebe8688dd0644749f7977c58fe1517",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.8e5184d9.chunk.css"
   },
   {
-    "revision": "2996d5a231cd9893a473",
+    "revision": "60bb446bf6547c3f782a",
     "url": "/static/css/main.c99b9262.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.e69451a6.chunk.js"
   },
   {
-    "revision": "2996d5a231cd9893a473",
-    "url": "/static/js/main.cff6cc11.chunk.js"
+    "revision": "60bb446bf6547c3f782a",
+    "url": "/static/js/main.e8262ffa.chunk.js"
   },
   {
     "revision": "4edc2514eb32690d4bef",
@@ -48,12 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
-    "revision": "c59720d63dc3595a12e1c7e641a1bfa5",
-    "url": "/static/media/airbnbLogo.c59720d6.png"
-  },
-  {
-    "revision": "d5d7244309ede162226658e71168ac2c",
-    "url": "/static/media/capgemini.d5d72443.png"
+    "revision": "557b623bdb40a31af7c0919a3ff98e04",
+    "url": "/static/media/capgemini.557b623b.png"
   },
   {
     "revision": "47a7a717679b640ceb1b05d38c480a61",
@@ -70,6 +66,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e79c639294c805688be731921368c8f8",
     "url": "/static/media/googleAssistantLogo.e79c6392.webp"
+  },
+  {
+    "revision": "3cc0e715c299334697a7b2e2c7f25934",
+    "url": "/static/media/iitkgp.3cc0e715.png"
   },
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
