@@ -240,7 +240,7 @@ const achievementSection = {
       title: "Python for Everybody",
       subtitle:
         "A specialization course by University of Michigan",
-      image: require("./assets/images/coursera.png"),
+      image: require("./assets/images/coursera.jpg"),
       imageAlt: "Coursera Logo",
       footerLink: [
         {
