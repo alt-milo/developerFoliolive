@@ -37,9 +37,10 @@ const socialMediaLinks = {
   linkedin: "https://www.linkedin.com/in/nirmalya-mukherjee/",
   gmail: "nirmalya0101@gmail.com",
   instagram: 'https://instagram.com/nirmalya_art',
-  //gitlab: "https://gitlab.com/saadpasta",
-  //facebook: "https://www.facebook.com/saad.pasta7",
-  //medium: "https://medium.com/@saadpasta",
+  youtube: 'https://www.youtube.com/@NirmalyaArt',
+  //gitlab: "https://gitlab.com/",
+  //facebook: "https://www.facebook.com/",
+  //medium: "https://medium.com/",
   //stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
   //Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
