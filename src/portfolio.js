@@ -41,7 +41,7 @@ const socialMediaLinks = {
   //gitlab: "https://gitlab.com/",
   //facebook: "https://www.facebook.com/",
   //medium: "https://medium.com/",
-  //stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
+  //stackoverflow: "https://stackoverflow.com/users/",
   //Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
@@ -189,10 +189,10 @@ const workExperiences = {
     },
     {
       role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      company: "IIT Kharagpur",
+      companylogo: require("./assets/images/iitkgp.png"),
+      date: "May 2018 – June 2018",
+      desc: "Developed Variant Visualizer : A tool to visualize the variants in Next Generation Sequencing"
     }
   ]
 };
