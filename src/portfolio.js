@@ -256,6 +256,19 @@ const achievementSection = {
 //          url: ""
 //        }
       ]
+    },
+    {
+      title: "Agile Software Development",
+      subtitle:
+        "Agile Software Development course by University of Minnesota",
+      image: require("./assets/images/coursera.jpg"),
+      imageAlt: "Coursera Logo",
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://coursera.org/share/74afad3746bd33ed577a8014d40ee36b"
+        }
+      ]
     }
   ],
   display: true // Set false to hide this section, defaults to true
