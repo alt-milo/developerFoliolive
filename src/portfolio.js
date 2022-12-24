@@ -269,7 +269,21 @@ const achievementSection = {
           url: "https://coursera.org/share/74afad3746bd33ed577a8014d40ee36b"
         }
       ]
+    },
+    {
+      title: "Data Science",
+      subtitle:
+        "Data Science by IBM",
+      image: require("./assets/images/coursera.jpg"),
+      imageAlt: "Coursera Logo",
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://coursera.org/share/56ab02db492b02454e853817a0a30a57"
+        }
+      ]
     }
+    
   ],
   display: true // Set false to hide this section, defaults to true
 };
