@@ -23,7 +23,7 @@ const greeting = {
   username: "Nirmalya Mukherjee",
   title: "Hi all, I'm Nirmalya",
   subTitle: emoji(
-    "A passionate Data Engineer 🚀 having an experience of building pipeline and data processing stuff and some other cool libraries and frameworks."
+    "A passionate Data Engineer 🚀 having an experience of building pipeline and -------------------------------------------."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1NAiztXm8KC806ZDzZRcEAzOxqiEqhBQR/view", // Set to empty to hide the button
